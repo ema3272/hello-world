@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+tutorial issue: locate an action icon in the Android toolbar
